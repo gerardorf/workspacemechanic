@@ -1,0 +1,11 @@
+# @title content assist autoactivation
+# @description improve content assist autoactivation
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Jun 12 15:56:57 CEST 2014
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation=true
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_delay=50
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=_.abcdefghijklmnopqrstuvwxyz
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_javadoc=@#
